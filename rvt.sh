@@ -3,6 +3,6 @@ cd
 cd ..
 cd usr/etc
 rm bash.bashrc
-cd $HOME/aspectup-welcome/Revert
+cd $HOME/jarvis-welcome/Revert
 mv bash.bashrc $PREFIC/etc
-python $HOME/aspectup-welcome/Revert/Thanks.py
+python $HOME/jarvis-welcome/Revert/Thanks.py
